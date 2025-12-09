@@ -1629,3 +1629,276 @@ Call log:
 2025-12-09 13:58:43,266 - INFO - ❌ Failed: 0
 2025-12-09 13:58:43,266 - INFO - 📁 Output file: CGWB\Coimbatore_CGWB_All_Data.csv
 2025-12-09 13:58:43,268 - INFO - ============================================================
+2025-12-09 15:17:26,418 - INFO - 🌐 Opening website...
+2025-12-09 15:17:38,511 - INFO - ✅ Selecting Agency: CGWB
+2025-12-09 15:17:40,569 - INFO - ✅ Selecting Project: --All--
+2025-12-09 15:17:42,598 - INFO - ⏳ Waiting for States to populate...
+2025-12-09 15:17:45,599 - INFO - ✅ Selecting State: Tamil Nadu
+2025-12-09 15:17:48,635 - INFO - ✅ Selecting District: Coimbatore
+2025-12-09 15:17:50,654 - INFO - 🔍 Clicking Filter button to load all wells...
+2025-12-09 15:17:53,725 - INFO - ⏳ Waiting for wells table to load...
+2025-12-09 15:17:55,740 - INFO - 📊 Changing table display to 50 entries...
+2025-12-09 15:17:57,774 - INFO -    ✅ Table length set to 50
+2025-12-09 15:17:57,784 - INFO - 📍 Found 36 well(s) in Coimbatore
+2025-12-09 15:17:57,785 - INFO - 🚀 Starting to process all wells...
+
+2025-12-09 15:17:57,785 - INFO - [1/36] Processing well...
+2025-12-09 15:17:59,916 - INFO -    Well ID: W103035077033401
+2025-12-09 15:17:59,918 - INFO -    Village: Anamalai Kundrugal
+2025-12-09 15:17:59,918 - INFO -    Lat: 10.50970, Long: 77.05940
+2025-12-09 15:18:00,232 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:00,323 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:03,334 - INFO - 
+2025-12-09 15:18:03,334 - INFO - [2/36] Processing well...
+2025-12-09 15:18:05,437 - INFO -    Well ID: W103130076595801
+2025-12-09 15:18:05,438 - INFO -    Village: Angalakurichi
+2025-12-09 15:18:05,439 - INFO -    Lat: 10.52500, Long: 76.99940
+2025-12-09 15:18:05,803 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:05,837 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:08,852 - INFO - 
+2025-12-09 15:18:08,853 - INFO - [3/36] Processing well...
+2025-12-09 15:18:10,997 - INFO -    Well ID: W103742076523102
+2025-12-09 15:18:10,998 - INFO -    Village: Marchanaickenpalayam
+2025-12-09 15:18:10,998 - INFO -    Lat: 10.62830, Long: 76.87530
+2025-12-09 15:18:11,354 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:11,383 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:14,399 - INFO - 
+2025-12-09 15:18:14,399 - INFO - [4/36] Processing well...
+2025-12-09 15:18:16,493 - INFO -    Well ID: W104400077054501
+2025-12-09 15:18:16,493 - INFO -    Village: Periya Negamam
+2025-12-09 15:18:16,494 - INFO -    Lat: 10.74030, Long: 77.10140
+2025-12-09 15:18:16,722 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:16,775 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:19,791 - INFO - 
+2025-12-09 15:18:19,792 - INFO - [5/36] Processing well...
+2025-12-09 15:18:21,921 - INFO -    Well ID: W104900077010001
+2025-12-09 15:18:21,922 - INFO -    Village: Kinthukadavu
+2025-12-09 15:18:21,922 - INFO -    Lat: 10.81670, Long: 77.01670
+2025-12-09 15:18:22,142 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:22,182 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:25,195 - INFO - 
+2025-12-09 15:18:25,196 - INFO - [6/36] Processing well...
+2025-12-09 15:18:27,316 - INFO -    Well ID: W105220077113001
+2025-12-09 15:18:27,316 - INFO -    Village: Sulthanpet
+2025-12-09 15:18:27,316 - INFO -    Lat: 10.87222, Long: 77.19167
+2025-12-09 15:18:27,697 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:27,731 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:30,739 - INFO - 
+2025-12-09 15:18:30,740 - INFO - [7/36] Processing well...
+2025-12-09 15:18:32,875 - INFO -    Well ID: W105230076540001
+2025-12-09 15:18:32,876 - INFO -    Village: Ettimadai
+2025-12-09 15:18:32,876 - INFO -    Lat: 10.87500, Long: 76.90000
+2025-12-09 15:18:33,455 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:33,513 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:36,529 - INFO - 
+2025-12-09 15:18:36,530 - INFO - [8/36] Processing well...
+2025-12-09 15:18:38,643 - INFO -    Well ID: W105430076580001
+2025-12-09 15:18:38,644 - INFO -    Village: Madukarai
+2025-12-09 15:18:38,645 - INFO -    Lat: 10.90830, Long: 76.96670
+2025-12-09 15:18:39,039 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:39,069 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:42,084 - INFO - 
+2025-12-09 15:18:42,085 - INFO - [9/36] Processing well...
+2025-12-09 15:18:44,221 - INFO -    Well ID: W105535076581501
+2025-12-09 15:18:44,221 - INFO -    Village: Gandhinagar
+2025-12-09 15:18:44,222 - INFO -    Lat: 10.92639, Long: 76.97083
+2025-12-09 15:18:44,531 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:44,578 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:47,592 - INFO - 
+2025-12-09 15:18:47,593 - INFO - [10/36] Processing well...
+2025-12-09 15:18:49,717 - INFO -    Well ID: W105630077043001
+2025-12-09 15:18:49,717 - INFO -    Village: Chettipalayam
+2025-12-09 15:18:49,718 - INFO -    Lat: 10.94167, Long: 77.07500
+2025-12-09 15:18:50,024 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:50,114 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:53,127 - INFO - 
+2025-12-09 15:18:53,127 - INFO - [11/36] Processing well...
+2025-12-09 15:18:55,248 - INFO -    Well ID: W105640076434501
+2025-12-09 15:18:55,249 - INFO -    Village: Chinnar Forest Check Post
+2025-12-09 15:18:55,250 - INFO -    Lat: 10.94444, Long: 76.72916
+2025-12-09 15:18:55,444 - INFO -    ✅ Added to master CSV
+2025-12-09 15:18:55,481 - INFO -    🔙 Returned to table view
+2025-12-09 15:18:58,496 - INFO - 
+2025-12-09 15:18:58,498 - INFO - [12/36] Processing well...
+2025-12-09 15:19:00,604 - INFO -    Well ID: W105643076500601
+2025-12-09 15:19:00,605 - INFO -    Village: Thenkarai
+2025-12-09 15:19:00,605 - INFO -    Lat: 10.94530, Long: 76.83500
+2025-12-09 15:19:00,823 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:00,863 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:03,878 - INFO - 
+2025-12-09 15:19:03,879 - INFO - [13/36] Processing well...
+2025-12-09 15:19:06,009 - INFO -    Well ID: W105710076551801
+2025-12-09 15:19:06,010 - INFO -    Village: Sundakamuthur
+2025-12-09 15:19:06,010 - INFO -    Lat: 10.95280, Long: 76.92170
+2025-12-09 15:19:06,226 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:06,331 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:09,347 - INFO - 
+2025-12-09 15:19:09,348 - INFO - [14/36] Processing well...
+2025-12-09 15:19:11,466 - INFO -    Well ID: W105745076480301
+2025-12-09 15:19:11,466 - INFO -    Village: Pooluvampatti
+2025-12-09 15:19:11,466 - INFO -    Lat: 10.96250, Long: 76.80080
+2025-12-09 15:19:11,808 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:11,840 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:14,848 - INFO - 
+2025-12-09 15:19:14,848 - INFO - [15/36] Processing well...
+2025-12-09 15:19:16,951 - INFO -    Well ID: W105800076550001
+2025-12-09 15:19:16,952 - INFO -    Village: Perurchettipalaym
+2025-12-09 15:19:16,952 - INFO -    Lat: 10.96670, Long: 76.91670
+2025-12-09 15:19:17,316 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:17,353 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:20,367 - INFO - 
+2025-12-09 15:19:20,368 - INFO - [16/36] Processing well...
+2025-12-09 15:19:22,501 - INFO -    Well ID: W105900076500001
+2025-12-09 15:19:22,502 - INFO -    Village: Thenamanallur
+2025-12-09 15:19:22,502 - INFO -    Lat: 10.98330, Long: 76.83330
+2025-12-09 15:19:22,943 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:23,035 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:26,049 - INFO - 
+2025-12-09 15:19:26,050 - INFO - [17/36] Processing well...
+2025-12-09 15:19:28,161 - INFO -    Well ID: W105900076552201
+2025-12-09 15:19:28,161 - INFO -    Village: Thelungupalayam
+2025-12-09 15:19:28,161 - INFO -    Lat: 10.98330, Long: 76.92280
+2025-12-09 15:19:28,406 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:28,446 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:31,462 - INFO - 
+2025-12-09 15:19:31,463 - INFO - [18/36] Processing well...
+2025-12-09 15:19:33,582 - INFO -    Well ID: W105947077001801
+2025-12-09 15:19:33,582 - INFO -    Village: Singanallur
+2025-12-09 15:19:33,583 - INFO -    Lat: 10.99640, Long: 77.00500
+2025-12-09 15:19:33,841 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:33,884 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:36,900 - INFO - 
+2025-12-09 15:19:36,901 - INFO - [19/36] Processing well...
+2025-12-09 15:19:39,015 - INFO -    Well ID: W110035076550701
+2025-12-09 15:19:39,016 - INFO -    Village: Aupperpalayam
+2025-12-09 15:19:39,016 - INFO -    Lat: 11.00970, Long: 76.91860
+2025-12-09 15:19:39,207 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:39,339 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:42,354 - INFO - 
+2025-12-09 15:19:42,355 - INFO - [20/36] Processing well...
+2025-12-09 15:19:44,461 - INFO -    Well ID: W110105077072501
+2025-12-09 15:19:44,461 - INFO -    Village: Sulur
+2025-12-09 15:19:44,462 - INFO -    Lat: 11.01810, Long: 77.12360
+2025-12-09 15:19:44,770 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:44,811 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:47,825 - INFO - 
+2025-12-09 15:19:47,826 - INFO - [21/36] Processing well...
+2025-12-09 15:19:49,943 - INFO -    Well ID: W110118077000901
+2025-12-09 15:19:49,943 - INFO -    Village: Singanallur
+2025-12-09 15:19:49,944 - INFO -    Lat: 11.02170, Long: 77.00250
+2025-12-09 15:19:50,241 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:50,278 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:53,292 - INFO - 
+2025-12-09 15:19:53,293 - INFO - [22/36] Processing well...
+2025-12-09 15:19:55,413 - INFO -    Well ID: W110119076563101
+2025-12-09 15:19:55,414 - INFO -    Village: Aupperpalayam
+2025-12-09 15:19:55,414 - INFO -    Lat: 11.02190, Long: 76.94190
+2025-12-09 15:19:55,667 - INFO -    ✅ Added to master CSV
+2025-12-09 15:19:55,800 - INFO -    🔙 Returned to table view
+2025-12-09 15:19:58,814 - INFO - 
+2025-12-09 15:19:58,815 - INFO - [23/36] Processing well...
+2025-12-09 15:20:00,926 - INFO -    Well ID: W110151076531601
+2025-12-09 15:20:00,927 - INFO -    Village: Kalveerampalayam-Os
+2025-12-09 15:20:00,927 - INFO -    Lat: 11.03083, Long: 76.88778
+2025-12-09 15:20:01,155 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:01,197 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:04,210 - INFO - 
+2025-12-09 15:20:04,211 - INFO - [24/36] Processing well...
+2025-12-09 15:20:06,337 - INFO -    Well ID: W110229077000201
+2025-12-09 15:20:06,338 - INFO -    Village: Aupperpalayam
+2025-12-09 15:20:06,338 - INFO -    Lat: 11.04140, Long: 77.00060
+2025-12-09 15:20:06,653 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:06,690 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:09,704 - INFO - 
+2025-12-09 15:20:09,705 - INFO - [25/36] Processing well...
+2025-12-09 15:20:11,846 - INFO -    Well ID: W110230076531501
+2025-12-09 15:20:11,846 - INFO -    Village: Somayampalayam
+2025-12-09 15:20:11,846 - INFO -    Lat: 11.04170, Long: 76.88750
+2025-12-09 15:20:12,165 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:12,300 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:15,312 - INFO - 
+2025-12-09 15:20:15,313 - INFO - [26/36] Processing well...
+2025-12-09 15:20:17,453 - INFO -    Well ID: W110231076563101
+2025-12-09 15:20:17,454 - INFO -    Village: Goundenpalayam
+2025-12-09 15:20:17,454 - INFO -    Lat: 11.04190, Long: 76.94190
+2025-12-09 15:20:17,668 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:17,703 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:20,719 - INFO - 
+2025-12-09 15:20:20,720 - INFO - [27/36] Processing well...
+2025-12-09 15:20:26,028 - INFO -    Well ID: W110424076571001
+2025-12-09 15:20:26,029 - INFO -    Village: Vellakinar
+2025-12-09 15:20:26,029 - INFO -    Lat: 11.07330, Long: 76.95280
+2025-12-09 15:20:26,659 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:26,692 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:29,702 - INFO - 
+2025-12-09 15:20:29,703 - INFO - [28/36] Processing well...
+2025-12-09 15:20:31,804 - INFO -    Well ID: W110430077000501
+2025-12-09 15:20:31,805 - INFO -    Village: Saravanmpatty
+2025-12-09 15:20:31,805 - INFO -    Lat: 11.07500, Long: 77.00140
+2025-12-09 15:20:32,035 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:32,200 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:35,206 - INFO - 
+2025-12-09 15:20:35,207 - INFO - [29/36] Processing well...
+2025-12-09 15:20:37,350 - INFO -    Well ID: W110515077104501
+2025-12-09 15:20:37,350 - INFO -    Village: Karumathampatty
+2025-12-09 15:20:37,350 - INFO -    Lat: 11.08750, Long: 77.17920
+2025-12-09 15:20:37,737 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:37,773 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:40,787 - INFO - 
+2025-12-09 15:20:40,787 - INFO - [30/36] Processing well...
+2025-12-09 15:20:42,909 - INFO -    Well ID: W110647076450301
+2025-12-09 15:20:42,909 - INFO -    Village: Veerapandi 024
+2025-12-09 15:20:42,909 - INFO -    Lat: 11.11310, Long: 76.75080
+2025-12-09 15:20:49,950 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:50,113 - INFO -    🔙 Returned to table view
+2025-12-09 15:20:53,127 - INFO - 
+2025-12-09 15:20:53,128 - INFO - [31/36] Processing well...
+2025-12-09 15:20:55,264 - INFO -    Well ID: W110800077020002
+2025-12-09 15:20:55,265 - INFO -    Village: Sarkar Samakulam
+2025-12-09 15:20:55,265 - INFO -    Lat: 11.13330, Long: 77.03330
+2025-12-09 15:20:57,691 - INFO -    ✅ Added to master CSV
+2025-12-09 15:20:57,765 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:00,779 - INFO - 
+2025-12-09 15:21:00,780 - INFO - [32/36] Processing well...
+2025-12-09 15:21:02,974 - INFO -    Well ID: W111045076453001
+2025-12-09 15:21:02,975 - INFO -    Village: Gopanari R.F
+2025-12-09 15:21:02,975 - INFO -    Lat: 11.17920, Long: 76.75830
+2025-12-09 15:21:04,157 - INFO -    ✅ Added to master CSV
+2025-12-09 15:21:04,245 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:07,261 - INFO - 
+2025-12-09 15:21:07,262 - INFO - [33/36] Processing well...
+2025-12-09 15:21:09,422 - INFO -    Well ID: W111129077052401
+2025-12-09 15:21:09,422 - INFO -    Village: Pillayapampalayam
+2025-12-09 15:21:09,422 - INFO -    Lat: 11.19140, Long: 77.09000
+2025-12-09 15:21:09,882 - INFO -    ✅ Added to master CSV
+2025-12-09 15:21:10,435 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:13,451 - INFO - 
+2025-12-09 15:21:13,452 - INFO - [34/36] Processing well...
+2025-12-09 15:21:15,664 - INFO -    Well ID: W111330077063001
+2025-12-09 15:21:15,665 - INFO -    Village: Annur
+2025-12-09 15:21:15,665 - INFO -    Lat: 11.22500, Long: 77.10830
+2025-12-09 15:21:17,878 - INFO -    ✅ Added to master CSV
+2025-12-09 15:21:17,938 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:20,948 - INFO - 
+2025-12-09 15:21:20,948 - INFO - [35/36] Processing well...
+2025-12-09 15:21:23,105 - INFO -    Well ID: W111521076560501
+2025-12-09 15:21:23,105 - INFO -    Village: Karamadai
+2025-12-09 15:21:23,106 - INFO -    Lat: 11.25580, Long: 76.93470
+2025-12-09 15:21:23,910 - INFO -    ✅ Added to master CSV
+2025-12-09 15:21:23,960 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:26,974 - INFO - 
+2025-12-09 15:21:26,975 - INFO - [36/36] Processing well...
+2025-12-09 15:21:29,130 - INFO -    Well ID: W111800076565001
+2025-12-09 15:21:29,131 - INFO -    Village: Mettupalayam
+2025-12-09 15:21:29,131 - INFO -    Lat: 11.30000, Long: 76.94720
+2025-12-09 15:21:31,091 - INFO -    ✅ Added to master CSV
+2025-12-09 15:21:31,633 - INFO -    🔙 Returned to table view
+2025-12-09 15:21:34,649 - INFO - 
+2025-12-09 15:21:34,650 - INFO - 
+============================================================
+2025-12-09 15:21:34,651 - INFO - 🏁 SCRAPING COMPLETED
+2025-12-09 15:21:34,651 - INFO - 📊 Total wells found: 36
+2025-12-09 15:21:34,651 - INFO - ✅ Successfully downloaded: 36
+2025-12-09 15:21:34,652 - INFO - ❌ Failed: 0
+2025-12-09 15:21:34,653 - INFO - 📁 Output file: CGWB\Coimbatore_CGWB_All_Data.csv
+2025-12-09 15:21:34,653 - INFO - ============================================================
