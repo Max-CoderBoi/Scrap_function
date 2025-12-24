@@ -4,7 +4,7 @@ from datetime import datetime
 import logging
 
 # Configuration
-MONGODB_URI = "mongodb+srv://akash_patil:akash@jalshaktidb.mzfi3l0.mongodb.net/"
+MONGODB_URI = process.env.MONGO_URL;
 DATABASE_NAME = "Jal_Shakti"
 COLLECTION_NAME = "well_data"
 CSV_FILE = "CGWB/Coimbatore_CGWB_2025_Merged.csv"
