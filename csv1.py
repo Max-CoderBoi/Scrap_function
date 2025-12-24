@@ -32,7 +32,7 @@ MONTHS_TO_KEEP = [1, 4, 8, 11]
 YEAR = 2025
 
 # MongoDB Configuration
-MONGODB_URI = "mongodb+srv://akash_patil:akash@jalshaktidb.mzfi3l0.mongodb.net/"
+MONGODB_URI = process.env.MONGO_URL
 DATABASE_NAME = "Jal_Shakti"
 COLLECTION_NAME = "well_data"
 CSV_FILE_FOR_MONGODB = f"CGWB/{OUTPUT_CSV_MERGED}"
